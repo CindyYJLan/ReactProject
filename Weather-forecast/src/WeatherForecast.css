@@ -1,0 +1,48 @@
+.redlable {
+  color: red;
+  padding: 8px;
+  font-weight: bold;
+  font-family: Copperplate;
+  border-style: groove;
+  border-radius: 50px;
+  border-width: 5px;
+  border-color: palevioletred;
+}
+
+.orangelable {
+  color: orangered;
+  padding: 8px;
+  font-weight: bold;
+  font-family: Copperplate;
+  border-style: groove;
+  border-radius: 50px;
+  border-width: 5px;
+  border-color: orange;
+}
+
+.tablefore {
+  background-color: lightcyan;
+  padding-bottom: 300px;
+  padding-top: 5px;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 80px;
+}
+th,
+td {
+  padding: 15px;
+  border-bottom: 1px solid rgb(248, 113, 113);
+}
+
+table {
+  table-layout: auto;
+  text-align: center;
+  padding: 20px 65px;
+}
+
+.tabletop {
+  vertical-align: top;
+  color: cornflowerblue;
+}
